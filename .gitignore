@@ -1,0 +1,10 @@
+.env
+.ipynb*
+__pycache__
+config.py
+.vscode
+
+front-end
+
+tmp
+*.ipynb
