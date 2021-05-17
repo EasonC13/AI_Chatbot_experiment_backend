@@ -5,6 +5,6 @@ config.py
 .vscode
 
 front-end
-
 tmp
 *.ipynb
+*.json
